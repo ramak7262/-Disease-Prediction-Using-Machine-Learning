@@ -1,6 +1,6 @@
 # 🩺 Disease Prediction Using Machine Learning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/Disease-Prediction-ML/blob/main/notebooks/disease_prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramak7262/-Disease-Prediction-Using-Machine-Learning/blob/main/Disease_Prediction_Project_1.ipynb)
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ![scikit-learn](https://img.shields.io/badge/Machine%20Learning-scikit--learn-orange)
