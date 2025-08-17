@@ -39,7 +39,7 @@ This project applies **Machine Learning algorithms (Decision Tree & Random Fores
 
 ### Option 1 – Run on Colab
 Click the badge below to open directly in Google Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramak7262/Disease-Prediction-ML/blob/main/notebooks/disease_prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramak7262/-Disease-Prediction-Using-Machine-Learning/blob/main/Disease_Prediction_Project_1.ipynb)
 
 ### Option 2 – Run Locally
 ```bash
