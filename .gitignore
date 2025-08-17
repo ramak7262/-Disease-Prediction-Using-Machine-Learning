@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# Data files (keep large CSVs out of repo)
+*.csv
+*.xlsx
+
+# Virtual environments
+.venv/
+env/
+venv/
